@@ -1,1 +1,13 @@
-hola
+HABITACIÓN PRINCIPAL
+
+
+- Una cama matrimonial.
+- Dos mesas de noche.
+- Un armario.
+- Una cómoda.
+- Un espejo.
+- Una silla.
+- Dos lámparas de noche.
+- Cortinas.
+- Una alfombra.
+- Un aire acondicionado.
